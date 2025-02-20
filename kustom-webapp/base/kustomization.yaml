@@ -3,10 +3,10 @@ resources:
 - service.yaml
 
 commonLabels:
-  app: kustomwebapp
+  app: nginx
 
 commonAnnotations:
-  app: mykustom-annontations
+  app: nginx
 
 namePrefix:
   kustom-
